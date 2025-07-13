@@ -1,0 +1,11 @@
+*.pkl
+*.pyc
+Miniconda3-latest-Linux-x86_64.sh
+
+*.xlsx
+.idea/
+.ipynb_checkpoints/
+.vscode/
+nohup.out
+
+/data
